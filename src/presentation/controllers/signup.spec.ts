@@ -1,4 +1,3 @@
-import exp from 'constants';
 import { SignUpController } from './signup'
 
 describe ('SignUp Controller', () => {
