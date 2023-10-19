@@ -1,0 +1,12 @@
+{
+  "name": "ts-clean-solid",
+  "version": "1.0.0",
+  "description": "practicing type script, clean code and developing a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
