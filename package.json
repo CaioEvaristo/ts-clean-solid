@@ -4,7 +4,9 @@
   "description": "practicing type script, clean code and developing a project",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest",
+    "start": "node dist/main.js"
   },
   "keywords": [],
   "author": "",
